@@ -2,6 +2,9 @@ feature-a
 commit again
 final version 100+200
 200 rebase
+<<<<<<< HEAD
 reset
 asdadabd #2
 ewge #3
+=======
+>>>>>>> parent of 5e0fd79... commit#1
